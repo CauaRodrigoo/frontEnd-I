@@ -9,6 +9,7 @@ p {
     text-align: center;
 }
 body {
+    text-align: center;
     background-color: rgb(0, 0, 0);
 }
 li {
@@ -21,5 +22,6 @@ img{
 h6 {
     border-color: brown;
     border-style: double;
+    border-radius: 30px;
     border-bottom: 5cm;
 }
