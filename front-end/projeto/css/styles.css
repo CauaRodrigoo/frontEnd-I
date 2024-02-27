@@ -18,3 +18,8 @@ img{
     display: block;
     margin: auto;
 }
+h6 {
+    border-color: brown;
+    border-style: double;
+    border-bottom: 5cm;
+}
